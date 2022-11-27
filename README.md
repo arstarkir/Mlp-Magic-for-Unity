@@ -3,6 +3,9 @@ I created a script for Unity that gives you an ability levitate objects using ml
 For this project I used "mlp-magic" made by RoBorg Link: https://github.com/RoBorg/mlp-magic
 And in the damo I used Standard Assets from Unity but I think I will delete them later.
 
+![image](https://user-images.githubusercontent.com/52779411/204134799-a9113efd-beed-4ef4-a17a-bc41810cba0f.png)
+
+
 I made this script for myself to use in any mlp projects where I might need it 
 but then I decided that their is no time better then now to start adding staff to my github.
 So I created this reposetory)
